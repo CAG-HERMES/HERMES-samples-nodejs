@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/CAG-HERMES/HERMES-samples-nodejs
+git clone https://github.com/CAG-HERMES/HERMES-samples-nodejs.git
 cd HERMES-samples-nodejs
 npm install
 ```
