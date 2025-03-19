@@ -14,6 +14,7 @@ const initSolaceClient = () => {
     vpnName: SOLACE_VPN || "default",
     userName: SOLACE_USER || "default",
     password: SOLACE_PASSWORD || "",
+    sslValidateCertificate: false
   });
 
   try {
